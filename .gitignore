@@ -29,6 +29,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+
+/src/main/java/gitIgnore/demo/.env
+.env.*
+!.env.example
 ### VS Code ###
 .vscode/
 *.txt
